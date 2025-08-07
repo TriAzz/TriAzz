@@ -60,4 +60,24 @@ As a student-led AI company, my time at InnovAIte has been a journey of rapid gr
 <details>
 <summary><strong>Three Kingdoms History Website (React, AI-Assisted Dev)</strong></summary>
 
-A feature-rich website built to explore the history of the Three Kingdoms period of Chi
+A feature-rich website built to explore the history of the Three Kingdoms period of China. This project was a deep dive into using AI tools (like Windsurf and CoPilot) for both coding a technology I was new to (React) and for translating Chinese source material.
+
+➡️ **[View the Live Site](https://3kingdomsscribed.netlify.app/)**
+
+</details>
+
+<details>
+<summary><strong>NoCodeJam Platform (Gamified Learning)</strong></summary>
+
+A gamified coding platform to help users enhance their programming skills. My contributions focused on researching and designing the core gamification and rating systems (EXP-based, ELO-based) and creating prototype learn pages. This was a core project within InnovAIte.
+
+</details>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TriAzz&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Thomas's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TriAzz&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Thomas's Top Languages" />
+</p>

@@ -6,7 +6,7 @@
 I'm a final year Computer Science student at Deakin University with a passion for problem-solving, AI-assisted development, and team leadership. My experience is centered on exploring how AI can accelerate innovation and reduce technical barriers, combined with hands-on development in C# and React.
 
 - 🎓 I'm finishing my **Bachelor of Computer Science** with a minor in Game Design and Development at Deakin University (expected graduation Sep 2025).
-- 🔭 I'm currently leading teams and developing prototypes as a **Senior Student at InnovAIte** and managing projects as an **Organisation Manager for Deakin FreelancingHub**.
+- 🔭 I'm currently leading teams and developing prototypes as a **Senior Student at InnovAIte** and managing the organisation of our project as an **Organisation Manager for Deakin FreelancingHub**.
 - 🌱 I love exploring how to structure AI-driven development to build robust, large-scale applications.
 - 🎯 I am **open to work** and seeking roles in **Software Engineering, C#/.NET Development, and AI/Game Development**.
 

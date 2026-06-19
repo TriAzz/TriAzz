@@ -1,14 +1,14 @@
-# Hi there, I'm Thomas Fleming 👋
+# Hi there, I'm Thomas Fleming 👋[cite: 1]
 
 <a href="https://www.linkedin.com/in/thomas-fleming-0303b4356/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://thomasflemingportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=web&logoColor=white" /></a>
 
-I'm a final year Computer Science student at Deakin University with a passion for problem-solving, AI-assisted development, and team leadership. My experience is centered on exploring how AI can accelerate innovation and reduce technical barriers, combined with hands-on development in C# and React.
+I'm an AI-Powered Developer and Computer Science graduate who combines technical expertise with creative problem-solving[cite: 1]. My early passion for turn-based tactics games and puzzles fueled a lifelong fascination with computers and software development[cite: 1]. Through my recent Capstone Project at InnovAIte, I've deeply explored machine learning, opening up exciting possibilities in AI-assisted development[cite: 1]. 
 
-- 🎓 I'm finishing my **Bachelor of Computer Science** with a minor in Game Design and Development at Deakin University (expected graduation Sep 2025).
-- 🔭 I'm currently leading teams and developing prototypes as a **Senior Student at InnovAIte** and automating excel data management as well as managing the organisation of our project as an **Organisation Manager and Excel Technician for Deakin FreelancingHub**.
-- 🌱 I love exploring how to structure AI-driven development to build robust, large-scale applications.
-- 🎯 I am **open to work** and seeking roles in **Software Engineering, C#/.NET Development, and AI/Game Development**.
+- 🎓 I **graduated in October 2025** with a **Bachelor of Computer Science** (minor in Game Design and Development) from Deakin University[cite: 1].
+- 🔭 I most recently served as a **Senior Student - Management and Communications Leader | AI Developer** at InnovAIte, pushing my personal and professional growth through leadership[cite: 1].
+- 💼 I also worked as a **Student Intern - Organisation Manager | Macro Developer** for Deakin University, creating VBA automation tools to streamline workflows for CSSANZ[cite: 1].
+- 🎯 My core technical expertise lies in **Software Development, Front-End Development, and React.js**[cite: 1].
 
 ---
 
@@ -40,37 +40,61 @@ I'm a final year Computer Science student at Deakin University with a passion fo
 
 ---
 
-### 🚀 My Recent Experience at InnovAIte
+### 📜 Certifications[cite: 1]
+- **GitHub Foundations:** Privacy, Security, and Administration[cite: 1]
+- **Streamlining Your Work with Microsoft Copilot**[cite: 1]
+- **What Is Generative AI?**[cite: 1]
+- **Generative AI:** The Evolution of Thoughtful Online Search[cite: 1]
+- **Structure Vibe Coding to Save Build Time**[cite: 1]
 
-As a student-led AI company, my time at InnovAIte has been a journey of rapid growth. I've had the opportunity to wear multiple hats, progressing from a junior developer to a leadership role.
+---
 
-**Senior Student - Management & AI Developer** (Jun 2025 - Present)
-- **GitHub Organization Management**: Established and now manage the entire InnovAIte GitHub organization, structuring repositories and access for multiple development teams.
-- **Team Leadership**: Coordinate the AI Prototyping Lab, facilitate meetings, and onboard new members, providing technical guidance and support.
-- **Technical Strategy**: Contributed to key architectural decisions, including planning a gamification system for our NoCodeJam platform and designing our repository structure.
+### 🚀 Recent Experience
 
-**Junior Student - AI Developer & Communications** (Feb 2025 - May 2025)
-- **AI Tool Research**: Investigated and analyzed AI coding tools like GitHub Copilot, Windsurf, and Augment.
-- **Prototype Development**: Built demonstration projects to showcase AI capabilities, including a **Chess game in C#** and a **historical website in React**.
+**InnovAIte | Senior Student - Management and Communications Leader | AI Developer** (Jun 2025 - Oct 2025)[cite: 1]
+- Established and managed the GitHub organization with proper access controls and repository structures[cite: 1].
+- Coordinated AI Prototyping Lab teams, facilitating meetings between project leads and mentors[cite: 1].
+- Led member onboarding processes and provided technical guidance to junior developers[cite: 1].
+- Contributed technically to the NoCodeJam platform onboarding process, gamification system design, and repository maintenance[cite: 1].
+
+**Deakin University | Student Intern - Organisation Manager | Macro Developer** (Jul 2025 - Sep 2025)[cite: 1]
+- Developed comprehensive Excel macro solutions and VBA automation tools that significantly streamlined data management operations[cite: 1].
+- Acted as a technical liaison with CSSANZ clients to translate requirements into actionable automation projects[cite: 1].
+- Established organized file structures within Microsoft Teams and provided technical support to team members[cite: 1].
+
+**InnovAIte | Junior Student - Communications Leader | AI Developer** (Feb 2025 - May 2025)[cite: 1]
+- Conducted comprehensive analysis of AI coding tools including Windsurf, GitHub CoPilot, and Augment[cite: 1].
+- Developed demonstration projects including the Chess Conquest Game in C#, Three Kingdoms Website in React, and the InnovAIte Projects Dashboard[cite: 1].
+- Acted as a bridge between leadership and students while serving as the primary company spokesperson for Windsurf demonstrations[cite: 1].
 
 ---
 
 ### ✨ Featured Projects
 
 <details>
-<summary><strong>Three Kingdoms History Website (React, AI-Assisted Dev)</strong></summary>
+<summary><strong>Three Kingdoms Website (React)[cite: 1]</strong></summary>
 
-A feature-rich website built to explore the history of the Three Kingdoms period of China. This project was a deep dive into using AI tools (like Windsurf and CoPilot) for both coding a technology I was new to (React) and for translating Chinese source material.
+A demonstration project built to showcase AI capabilities[cite: 1]. This project was a deep dive into using AI tools (like Windsurf and CoPilot) for coding a technology I was new to (React) and exploring the history of the Three Kingdoms period.
 
 ➡️ **[View the Live Site](https://3kingdomsscribed.netlify.app/)**
-
 </details>
 
 <details>
-<summary><strong>NoCodeJam Platform (Gamified Learning)</strong></summary>
+<summary><strong>Chess Conquest Game (C#)[cite: 1]</strong></summary>
 
-A gamified coding platform to help users enhance their programming skills. My contributions focused on researching and designing the core gamification and rating systems (EXP-based, ELO-based) and creating prototype learn pages. This was a core project within InnovAIte.
+A game developed in C# to demonstrate AI capabilities as part of my prototyping work at InnovAIte[cite: 1]. It reflects my minor in Game Design and my passion for turn-based tactics and puzzle-solving[cite: 1]. 
+</details>
 
+<details>
+<summary><strong>NoCodeJam Platform[cite: 1]</strong></summary>
+
+A platform where I contributed technically to the onboarding process and the overarching gamification system design[cite: 1]. 
+</details>
+
+<details>
+<summary><strong>InnovAIte Projects Dashboard[cite: 1]</strong></summary>
+
+An internal demonstration project developed to help coordinate company communications and track resources[cite: 1].
 </details>
 
 ---
